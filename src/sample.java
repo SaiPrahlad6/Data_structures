@@ -1,4 +1,4 @@
-public class lohi {
+public class sample {
     public static  void main(String args[]){
         int n= 5;
         char[] a = new char[]{'A','B','C','D','E'};
